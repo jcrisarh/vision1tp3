@@ -4,15 +4,6 @@ Este trabajo práctico consiste en detectar logotipos de una gaseosa en un conju
 
 ---
 
-## 📂 Contenido
-
-- `images/` – Imágenes a analizar  
-- `template/` – Logotipo de referencia  
-- `scripts/` – Scripts de detección  
-- `README.md` – Descripción del TP
-
----
-
 ## 🎯 Objetivos
 
 ### 1️⃣ Detección única 
